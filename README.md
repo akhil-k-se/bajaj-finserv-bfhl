@@ -12,7 +12,7 @@ It contains a backend-only REST API built with **Node.js and Express**, designed
 
 Example:  
 ```
-https://your-deployment-url.vercel.app/bfhl
+https://bajaj-finserv-bfhl-i4o9.onrender.com/bfhl
 ```
 
 ---
@@ -72,8 +72,8 @@ https://your-deployment-url.vercel.app/bfhl
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/bajaj-finserv-api-round.git
-cd bajaj-finserv-api-round
+git clone https://github.com/akhil-k-se/bajaj-finserv-bfhl.git
+cd bajaj-finserv-bfhl
 ```
 
 ### 2. Install dependencies
@@ -126,8 +126,8 @@ This project is ready for deployment on platforms like:
 ## ✅ Author Details
 
 - 👨‍💻 Name: Akhil Kumar
-- 📧 Email: akhil@example.com
-- 🏫 Roll Number: CHIT123456
+- 📧 Email: akhil1218.be22@chitkara.edu.in
+- 🏫 Roll Number: 2210991218
 
 ---
 
