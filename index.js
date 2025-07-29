@@ -1,11 +1,12 @@
+require("dotenv").config();
 const express = require("express");
 const app = express();
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 5000;
 
-const FULL_NAME = "akhil_kumar";
-const DOB = "31032005";             
-const EMAIL = "akhil@example.com";
-const ROLL_NUMBER = "2210991218";
+const FULL_NAME = process.env.FULL_NAME;
+const DOB = process.env.DOB;
+const EMAIL = process.env.EMAIL;
+const ROLL_NUMBER = process.env.ROLL_NUMBER;
 
 app.use(express.json());
 
